@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+groq
+langchain-community
+langchain-huggingface
+langchain-core
+faiss-cpu
+sentence-transformers
+joblib
